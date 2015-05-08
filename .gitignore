@@ -1,0 +1,20 @@
+target
+dependency-reduced-pom.xml
+
+# Data files
+data
+
+# Vim swap files
+*.sw?
+
+# gedit swap files
+*~
+
+# Eclipse stuff
+.classpath
+.project
+.settings
+
+# Maven stuff
+*.iml
+*.versionsBackup
