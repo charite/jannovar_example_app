@@ -5,7 +5,7 @@
 Perform the following steps to create an application that can use the jannovar-core library:
 
     $ git clone https://github.com/charite/jannovar_example_app.git
-    $ cd minimal-jannovar-app.git
+    $ cd jannovar_example_app
     $ mvn test
     ...
 
